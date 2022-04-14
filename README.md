@@ -1,2 +1,2 @@
 # ow
-#opewwrt
+#openwrt
